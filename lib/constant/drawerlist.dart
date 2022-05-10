@@ -1,0 +1,17 @@
+List<String> teamsDrawer = [
+  'RealMadrid',
+  'Barcelona',
+  'Chelsea',
+  'Liverpool',
+  'ManUnited',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+  '',
+];
